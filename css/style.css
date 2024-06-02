@@ -31,3 +31,12 @@
     flex-direction: row;
     
 }
+
+/* Estilizo el icono dentro de la etiqueta contenedora img-nombre*/
+.contenedor-img-nombre i{
+    border-radius: 50%;
+    margin: 8px;
+    padding: 10px;
+    background-color: rgb(66, 66, 202);
+    color: white;
+}
