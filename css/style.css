@@ -119,3 +119,22 @@ h2{
     border-radius: 12px;
 }
 /* FINAL DE CAJA UNO */
+
+/* COMIENZO DE CAJA DOS */
+
+
+.contenedor-dos{
+    border: solid red 2px;
+    height: 240px;
+    width: 250px;
+    border-radius: 18px;
+    padding: 13px;
+
+}
+
+
+
+
+
+
+/* FINAL DE CAJA DOS */
