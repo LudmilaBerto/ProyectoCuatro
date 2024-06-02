@@ -79,3 +79,6 @@
     flex-direction: row;
     align-items: center;
 }
+.tres p{
+    padding: 0px 4px;
+}
