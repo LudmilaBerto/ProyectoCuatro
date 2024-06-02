@@ -108,3 +108,13 @@ h2{
     font-size: 25px;
 }
 
+.aplicar{
+    font-size: 15px;
+    background-color: #397df9;
+    border:none;
+    color:#feffff;
+    padding: 15px 0px;
+    width: 250px;
+    margin-top: 15px;
+    border-radius: 12px;
+}
