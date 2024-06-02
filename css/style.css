@@ -6,6 +6,22 @@
     padding: 0;
 }
 
+/* Le agrego un backgraund color al BODY y un displey flex para centrar el SECTION */
+
+body{
+    background: radial-gradient(RGB(229 229 229), RGB(239 238 238));
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Le agrego un margin al SECTION */
+section{
+    margin: 50px;
+}
+
+
 /* COMIENZO DE CAJA UNO */
 
 /* Le aplico un borde en color rojo a la caja en general para guiarme*/ 
