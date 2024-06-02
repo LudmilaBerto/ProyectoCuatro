@@ -40,8 +40,18 @@
     background-color: rgb(66, 66, 202);
     color: white;
 }
+/* Nombre de perfil */
 .nombrecompleto{
     font-weight: 500;
     font-size: 14px;
     padding-top: 8px;
 }
+
+/* Botón de corazon */
+.corazon{
+    background-color: #f7f9f9;
+    border: solid #ced0d1 1px;
+    border-radius: 7px;
+    padding: 6px;
+}
+
