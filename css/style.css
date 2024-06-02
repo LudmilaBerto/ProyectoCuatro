@@ -55,3 +55,11 @@
     padding: 6px;
 }
 
+/* Etiquetas <p> en tono Gris */
+
+.contenedortextoclaro{
+    font-weight: 400;
+    font-size: 11px;
+    padding-top: 5px;
+    color: #a9a9a9;
+}
