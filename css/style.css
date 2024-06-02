@@ -102,3 +102,9 @@ a{
     border-bottom: dashed #a9a9a9  1px;
     padding-bottom: 20px;
 }
+h2{
+    padding-top: 20px;
+    font-weight: 500;
+    font-size: 25px;
+}
+
