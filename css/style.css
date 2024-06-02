@@ -26,3 +26,8 @@
     align-items: center;
     
 }
+.contenedor-img-nombre{
+    display: flex;
+    flex-direction: row;
+    
+}
