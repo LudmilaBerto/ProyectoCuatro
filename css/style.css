@@ -7,7 +7,9 @@
 }
 
 /* COMIENZO DE CAJA UNO */
+
 /* Le aplico un borde en color rojo a la caja en general para guiarme*/ 
+
 .contenedor-uno{
     border: solid red 2px;
     border-radius: 18px;
@@ -15,4 +17,12 @@
     height: 300px;
     width: 250px;
     font-family: "Roboto", sans-serif;
+}
+
+.contenedor-perfil{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+    
 }
