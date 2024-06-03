@@ -333,7 +333,7 @@ h3{
 /* COMIENZO DE CAJA CUATRO */
 
 .contenedor-cuatro{
-    height: 150px;
+    height: 155px;
     width: 260px;
     border-radius: 18px;
     padding: 10px;
@@ -349,6 +349,19 @@ h3{
     flex-direction: row;
     justify-content: space-between;
     padding-bottom: 10px;
+}
+.botoncajacuatro{
+    color: #000;
+    background-color: #F7F6F8;
+    font-family: "Poppins", sans-serif;
+
+    font-weight: 600;
+    font-size: 13px;
+    padding: 8px 8px;
+    letter-spacing: 1px;
+    border-radius: 8px;
+    border:double #878a8a79 1px;
+
 }
 
 /* CONTENEDOR CUATRO B */
@@ -436,3 +449,6 @@ h3{
     border-radius: 6px;
 
 }
+
+
+/* FINAL DE LA CAJA CUATRO */
